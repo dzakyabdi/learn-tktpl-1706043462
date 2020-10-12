@@ -1,4 +1,2 @@
 # learn-tktpl-1706043462
-Nama : Dzaky Abdi Al Jabbar
-NPM : 1706043462
-TKTPL - B
+Dzaky Abdi Al Jabbar - 1706043462 - TKTPL B
